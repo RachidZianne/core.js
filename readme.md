@@ -1,11 +1,11 @@
-![Total.js logo](https://www.totaljs.com/img/logo-totaljs.png)
+![Total.js logo](https://www.corejs.com/img/logo-totaljs.png)
 
 [![Professional Support](https://www.totaljs.com/img/badge-support.svg)](https://www.totaljs.com/support/) [![Chat with contributors](https://www.totaljs.com/img/badge-chat.svg)](https://messenger.totaljs.com) [![NPM version][npm-version-image]][npm-url] [![NPM quality][npm-quality]](http://packagequality.com/#?package=total.js) [![NPM downloads][npm-downloads-image]][npm-url] [![MIT License][license-image]][license-url] [![Build Status][travis-image]][travis-url] [![Gitter chat](https://badges.gitter.im/totaljs/framework.png)](https://messenger.totaljs.com) [![Known Vulnerabilities](https://snyk.io/test/npm/total.js/badge.svg)](https://snyk.io/test/npm/total.js)
 
 Node.js framework
 =====================
 
-__Total.js framework__ is a framework for Node.js platfrom written in `pure` JavaScript similar to PHP's Laravel or Python's Django or ASP.NET MVC. It can be used as web, desktop, service or IoT application.
+__core.js framework__ is a framework for Node.js platfrom written in `pure` JavaScript similar to PHP's Laravel or Python's Django or ASP.NET MVC. It can be used as web, desktop, service or IoT application.
 
 ```bash
 $ npm install -g total.js
@@ -13,30 +13,30 @@ $ npm install -g total.js
 
 [![Support](https://www.totaljs.com/img/button-support.png?v=3)](https://www.totaljs.com/support/)
 
-- [__NEW__: Total.js Wiki](https://www.totaljs.com/wiki/)
-- [Total.js Flow](https://www.totaljs.com/flow/)
-- [Total.js Flowboard](https://www.totaljs.com/flowboard/)
-- [Total.js Messenger](https://www.totaljs.com/messenger/)
-- [Total.js Dashboard](https://www.totaljs.com/dashboard/)
-- [Total.js BlogEngine](https://www.totaljs.com/blogengine/)
-- [Total.js SuperAdmin](https://www.totaljs.com/superadmin/)
-- [Total.js Eshop](http://www.totaljs.com/eshop/)
-- [Total.js CMS](http://www.totaljs.com/cms/)
-- [Total.js HelpDesk](https://www.totaljs.com/helpdesk/)
-- [Total.js OpenPlatform](https://www.totaljs.com/openplatform/)
-- [Total.js AppMonitor](https://www.totaljs.com/monitor/)
-- [Total.js AppDesigner](https://www.totaljs.com/designer/)
-- [Total.js modules and packages](https://modules.totaljs.com)
-- [Total.js +100 examples](https://github.com/totaljs/examples)
-- [NoSQL embedded database explorer](https://www.totaljs.com/nosql/)
-- [Download +90 client-side components (jComponent) for free](https://componentator.com)
+- [__NEW__: Total.js Wiki](#/)
+- [core.js Flow](#)
+- [core.js Flowboard](#)
+- [core.js Messenger](#)
+- [core.js Dashboard](#)
+- [core.js BlogEngine](#)
+- [core.js SuperAdmin](#)
+- [core.js Eshop](#)
+- [core.js CMS](#)
+- [core.js HelpDesk](#)
+- [core.js OpenPlatform](#)
+- [core.js AppMonitor](#)
+- [core.js AppDesigner](#)
+- [core.js modules and packages](#)
+- [core.js +100 examples](#)
+- [NoSQL embedded database explorer](#)
+- [Download +90 client-side components (jComponent) for free](#)
 
 ---
 
-- [Homepage](http://www.totaljs.com)
-- [__Get Started__](http://www.totaljs.com/get-started/)
-- [__Documentation__](http://docs.totaljs.com)
-- [__Wiki for Total.js products__](http://wiki.totaljs.com)
+- [Homepage](http://www.zianneson.com/corejs)
+- [__Get Started__](http://www.zianneson.com/corejs/get-started/)
+- [__Documentation__](http://www.zianneson.com/corejs/docs)
+- [__Wiki for Total.js products__](http://www.zianneson.com/corejs/wiki)
 - [__Live chat with professional support__](https://messenger.totaljs.com)
 - [__HelpDesk with professional support__](https://helpdesk.totaljs.com)
 - [__Blogs__](https://blog.totaljs.com)
@@ -93,53 +93,25 @@ $ npm install -g total.js
 
 | Contributor | Type | E-mail |
 |-------------|------|--------|
-| [Peter Širka](https://github.com/petersirka) | author + support | <petersirka@gmail.com> |
-| [Martin Smola](https://github.com/molda) | contributor + support | <smola.martin@gmail.com> |
-| [Jozef Gula](https://github.com/jozefgula) | contributor | <gula.jozef@gmail.com> |
-| [Andrea Sessa](https://github.com/asessa) | contributor | <andrea.sessa@gmail.com> |
-| [Gera G. Güiles](https://github.com/Maxima-Solutions) | contributor | <gerardo.gonzalezg@gmail.com> |
-| [Tom Spaccialbelli](https://github.com/harry-stot) | contributor | <tom.spaccialbelli@gmail.com> |
-| [Radek / rsmogura](https://github.com/rsmogura) | contributor | ... |
-| [Liao San-Kai](https://github.com/liaosankai) | contributor | <liaosankai@gmail.com> |
-| [Ivan Marchukov](https://github.com/deadman2000) | contributor | <marchukov.ivan@gmail.com> |
-| [Dusan Dragula](https://github.com/DusanDragulaGR) | contributor | <dusan.dragula@goodrequest.com> |
-| [Сковорода Никита Андреевич](https://github.com/ChALkeR) | contributor | <chalkerx@gmail.com> |
-| [Андрей Владимирович](https://github.com/anddesigner) | contributor | <and.designer93@gmail.com> |
-| [Guy Fraser](https://github.com/aubergine10) | contributor | <guy.fraser1@gmail.com> |
-| [Peter Štolc](https://github.com/fokinko) | contributor | <stolcp@gmail.com> |
-| [Denis Granec](https://github.com/PatchwerkQWER) | contributor | <danis1999@gmail.com> |
-| [Chao Tang Chang](https://github.com/ckpiggy) | contributor | <mrgmp2004@hotmail.com> |
-| [luoage](https://github.com/luoage) | contributor | <luoage@msn.cn> |
-
+| [Rachid Zianne] | author + support | <ziannerachid@gmail.com> |
+| [Daniel oloffson]  | author + support | <daniel.olofsson@gmail.com> |
 ## Useful modules
 
-- [SQL Agent: A missing ORM for Node.js and Total.js](https://github.com/petersirka/node-sqlagent)
-- [PayPal Express Checkout](https://github.com/petersirka/node-paypal-express-checkout)
+- [SQL Agent: A missing ORM for Node.js and core.js](#)
+- [PayPal Express Checkout](#)
 
 ## Social networks
 
 Please support the framework on social networks.
 
-- [Follow Total.js on Gitter](https://gitter.im/totaljs/framework)
-- [Follow Total.js on GitHub](https://github.com/totaljs/framework)
-- [Follow Total.js on Twitter - __@totalframework__](https://twitter.com/totalframework)
-- [Follow Total.js on Facebook](https://www.facebook.com/totaljs.web.framework)
-- [Follow Total.js on Google Plus](https://plus.google.com/u/0/113175077493180148081/posts)
-- [Follow Total.js on LinkedIn](https://www.linkedin.com/groups/totaljs-8109884)
+- [Follow Total.js on Gitter](#)
+- [Follow Total.js on GitHub](#)
+- [Follow Total.js on Twitter - __@totalframework__](#)
+- [Follow Total.js on Facebook](#)
+- [Follow Total.js on Google Plus](#)
+- [Follow Total.js on LinkedIn](#)
 
 ## Contact
 
-- Peter Širka - <petersirka@gmail.com>
-- contact form <https://www.totaljs.com/contact/>
-- <info@totaljs.com>
-
-[license-image]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat
-[license-url]: license.txt
-
-[npm-url]: https://npmjs.org/package/total.js
-[npm-version-image]: https://img.shields.io/npm/v/total.js.svg?style=flat
-[npm-downloads-image]: https://img.shields.io/npm/dm/total.js.svg?style=flat
-[npm-quality]: http://npm.packagequality.com/shield/total.js.svg
-
-[travis-url]: https://travis-ci.org/totaljs/framework
-[travis-image]: https://img.shields.io/travis/totaljs/framework.svg?style=flat
+- Rachid zianne - <ziannerachid@gmail.com>
+- Daniel olofsson -  <daniel.olofsson@gmail.com>
