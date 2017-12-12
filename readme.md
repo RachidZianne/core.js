@@ -8,7 +8,7 @@ Node.js framework
 __core.js framework__ is a framework for Node.js platfrom written in `pure` JavaScript similar to PHP's Laravel or Python's Django or ASP.NET MVC. It can be used as web, desktop, service or IoT application.
 
 ```bash
-$ npm install -g total.js
+$ npm install -g core.js
 ```
 
 [![Support](#)](https://www.zianneson.com/support/)
@@ -36,22 +36,22 @@ $ npm install -g total.js
 - [Homepage](http://www.zianneson.com/corejs)
 - [__Get Started__](http://www.zianneson.com/corejs/get-started/)
 - [__Documentation__](http://www.zianneson.com/corejs/docs)
-- [__Wiki for Total.js products__](http://www.zianneson.com/corejs/wiki)
-- [__Live chat with professional support__](https://messenger.totaljs.com)
-- [__HelpDesk with professional support__](https://helpdesk.totaljs.com)
-- [__Blogs__](https://blog.totaljs.com)
-- [__Membership__](https://my.totaljs.com)
-- [Gitter - Chat for GitHub](https://gitter.im/totaljs/framework)
-- [Changelog](https://github.com/totaljs/framework/blob/master/changes.txt)
+- [__Wiki for core.js products__](http://www.zianneson.com/corejs/wiki)
+- [__Live chat with professional support__](#)
+- [__HelpDesk with professional support__](#)
+- [__Blogs__](#)
+- [__Membership__](#)
+- [Gitter - Chat for GitHub](#)
+- [Changelog](#)
 
 ## Official support
 
-- [Support form](http://www.totaljs.com/support/)
-- Support e-mail: <support@totaljs.com>
+- [Support form](#)
+- Support e-mail: <#>
 
 | Top features |
 |------|
-| [__Offline documentation__](http://docs.totaljs.com) |
+| [__Offline documentation__](#) |
 | __Backward compatibility__ |
 | HMVC architecture |
 | Clean directory structure |
