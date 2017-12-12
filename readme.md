@@ -1,6 +1,6 @@
-![Total.js logo](https://www.corejs.com/img/logo-totaljs.png)
+![Core.js logo](https://www.corejs.com/img/logo-corejs.png)
 
-[![Professional Support](https://www.totaljs.com/img/badge-support.svg)](https://www.totaljs.com/support/) [![Chat with contributors](https://www.totaljs.com/img/badge-chat.svg)](https://messenger.totaljs.com) [![NPM version][npm-version-image]][npm-url] [![NPM quality][npm-quality]](http://packagequality.com/#?package=total.js) [![NPM downloads][npm-downloads-image]][npm-url] [![MIT License][license-image]][license-url] [![Build Status][travis-image]][travis-url] [![Gitter chat](https://badges.gitter.im/totaljs/framework.png)](https://messenger.totaljs.com) [![Known Vulnerabilities](https://snyk.io/test/npm/total.js/badge.svg)](https://snyk.io/test/npm/total.js)
+[![Professional Support](#)](https://www.totaljs.com/support/) [![Chat with contributors](#)](https://messenger.totaljs.com) [![NPM version][npm-version-image]][npm-url] [![NPM quality][npm-quality]](http://packagequality.com/#?package=core.js) [![NPM downloads][npm-downloads-image]][npm-url] [![MIT License][license-image]][license-url] [![Build Status][travis-image]][travis-url] [![Gitter chat](https://badges.gitter.im/totaljs/framework.png)](https://messenger.totaljs.com) [![Known Vulnerabilities](https://snyk.io/test/npm/total.js/badge.svg)](https://snyk.io/test/npm/core.js)
 
 Node.js framework
 =====================
@@ -11,9 +11,9 @@ __core.js framework__ is a framework for Node.js platfrom written in `pure` Java
 $ npm install -g total.js
 ```
 
-[![Support](https://www.totaljs.com/img/button-support.png?v=3)](https://www.totaljs.com/support/)
+[![Support](#)](https://www.zianneson.com/support/)
 
-- [__NEW__: Total.js Wiki](#/)
+- [__NEW__: core.js Wiki](#/)
 - [core.js Flow](#)
 - [core.js Flowboard](#)
 - [core.js Messenger](#)
@@ -104,14 +104,14 @@ $ npm install -g total.js
 
 Please support the framework on social networks.
 
-- [Follow Total.js on Gitter](#)
-- [Follow Total.js on GitHub](#)
-- [Follow Total.js on Twitter - __@totalframework__](#)
-- [Follow Total.js on Facebook](#)
-- [Follow Total.js on Google Plus](#)
-- [Follow Total.js on LinkedIn](#)
+- [Follow core.js on Gitter](#)
+- [Follow core.js on GitHub](#)
+- [Follow core.js on Twitter - __@totalframework__](#)
+- [Follow core.js on Facebook](#)
+- [Follow core.js on Google Plus](#)
+- [Follow core.js on LinkedIn](#)
 
 ## Contact
 
 - Rachid zianne - <ziannerachid@gmail.com>
-- Daniel olofsson -  <daniel.olofsson@gmail.com>
+- Daniel olofsson - <daniel.olofsson@gmail.com>
