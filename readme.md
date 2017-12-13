@@ -1,6 +1,6 @@
 ![Core.js logo](https://www.corejs.com/img/logo-corejs.png)
 
-[![Professional Support](#)](https://www.totaljs.com/support/) [![Chat with contributors](#)](https://messenger.totaljs.com) [![NPM version][npm-version-image]][npm-url] [![NPM quality][npm-quality]](http://packagequality.com/#?package=core.js) [![NPM downloads][npm-downloads-image]][npm-url] [![MIT License][license-image]][license-url] [![Build Status][travis-image]][travis-url] [![Gitter chat](https://badges.gitter.im/totaljs/framework.png)](https://messenger.totaljs.com) [![Known Vulnerabilities](https://snyk.io/test/npm/total.js/badge.svg)](https://snyk.io/test/npm/core.js)
+[![Professional Support](#)](https://www.totaljs.com/support/) [![Chat with contributors](#)](https://messenger.totaljs.com) [![NPM version][npm-version-image]][npm-url] [![NPM quality][npm-quality]](http://packagequality.com/#?package=core.js) [![NPM downloads][npm-downloads-image]][npm-url] [![MIT License][license-image]][license-url] [![Build Status][travis-image]][travis-url] [![Gitter chat](https://badges.gitter.im/totaljs/framework.png)](#) [![Known Vulnerabilities](https://snyk.io/test/npm/total.js/badge.svg)](https://snyk.io/test/npm/core.js)
 
 Node.js framework
 =====================
