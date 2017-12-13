@@ -106,7 +106,7 @@ Please support the framework on social networks.
 
 - [Follow core.js on Gitter](#)
 - [Follow core.js on GitHub](#)
-- [Follow core.js on Twitter - __@totalframework__](#)
+- [Follow core.js on Twitter - __@corejsframework__](#)
 - [Follow core.js on Facebook](#)
 - [Follow core.js on Google Plus](#)
 - [Follow core.js on LinkedIn](#)
