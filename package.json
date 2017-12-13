@@ -46,7 +46,7 @@
   ],
   "license": "MIT",
   "main": "./index.js",
-  "name": "core",
+  "name": "codejs",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/totaljs/framework.git"
